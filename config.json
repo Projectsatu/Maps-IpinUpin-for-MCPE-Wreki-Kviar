@@ -7,7 +7,7 @@
       "link": "https://ipsaya.com/hostinglokasi.php",
       
       "addon": false,
-      "maps": false,
+      "maps": true,
       "texture": false,
       "skin": true,
       "more": false,
@@ -44,12 +44,12 @@
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "PETA UPIN & IPIN MINECRAFT PE MCPE",
+        "role": "PETA UPIN & IPIN MINECRAFT PE MCPE",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Upin Ipin/1/1.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Upin Ipin/1/ipinupinmap.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Upin Ipin/1/1.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Upin Ipin/1/1.jpg"
     }
   ],
   "Texture": [
